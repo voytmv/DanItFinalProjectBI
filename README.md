@@ -14,9 +14,9 @@ This dataset reflects reported incidents of crimes that occurred in the city of 
 Slide 4: 	    
 
 1. Create a database from csv files
-2. 2. Make a simple queries, first stage of investigations
-3. 3. Union, join, additional tables/columns, basic function of SQL
-4. 4. Deal with missing values
+2. Make a simple queries, first stage of investigations
+3. Union, join, additional tables/columns, basic function of SQL
+4. Deal with missing values
 5. Export a csv to further investigation in Python
               
 
@@ -31,6 +31,5 @@ Slide 5:
 7. Extarct csv file to further work in Tableau/PowerBI
 
 Slide 6,7:    
-
-1.More useful representation of your investigation to my team/boos
+1. More useful representation of your investigation to my team/boos
 2. Create interactive dashboards
