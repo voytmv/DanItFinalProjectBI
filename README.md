@@ -12,6 +12,8 @@ My name is Mykyta and I have almost finished my Business Intelligence courses an
 
 This dataset reflects reported incidents of crimes that occurred in the city of Chicago from 2021 to present days 
 
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+
 #### Slide 4: 	    
 
 1. Create a database from csv files
@@ -39,4 +41,8 @@ This dataset reflects reported incidents of crimes that occurred in the city of 
 #### Slide 9:
 
 1. Demonstrate SQL file, Python file, Tableau and PowerBi dashboards
+
+#### Slide 10:
+
+1. Demonstarate additional file with all insights
 
