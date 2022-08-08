@@ -1,4 +1,4 @@
-# DanItFinalProjectB
+# DanItFinalProject
 
 ### PRESENATION text by slides below:
 
