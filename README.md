@@ -1,13 +1,14 @@
 # DanItFinalProjectB
 
-Hi everyone!
-
-My name is Mykyta and I have almost finished my Business Intelligence courses and now I am working on my final project(invesetigation) with Chicago police dataset!
-
 PRESENATION text by slides below:
 
 
-Slide 2:      
+### Slide 2:   
+
+My name is Mykyta and I have almost finished my Business Intelligence courses and now I am working on my final project(invesetigation) with Chicago police dataset!
+
+   
+### Slide 3:
 
 This dataset reflects reported incidents of crimes that occurred in the city of Chicago from 2021 to present days 
 
