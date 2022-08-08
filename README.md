@@ -4,6 +4,7 @@ Hi everyone!
 
 My name is Mykyta and I have almost finished my Business Intelligence courses and now I am working on my final project(invesetigation) with Chicago police dataset!
 
+PRESENATION text by slides below:
 
 
 Slide 2:      
@@ -19,7 +20,6 @@ Slide 4:
 4. Deal with missing values
 5. Export a csv to further investigation in Python
               
-
 Slide 5:      		
 
 1. Continue investigation using additional libraries such a NumPy, Pandas, Matplotlib, Seaborn, ScikitLearn etc.
@@ -30,6 +30,7 @@ Slide 5:
 6. Assumptions and predictions using elements of machine learning
 7. Extarct csv file to further work in Tableau/PowerBI
 
-Slide 6,7:    
+Slide 6,7:  
+
 1. More useful representation of your investigation to my team/boos
 2. Create interactive dashboards
