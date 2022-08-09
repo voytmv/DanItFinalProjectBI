@@ -42,6 +42,8 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
 1. Demonstrate SQL file, Python file, Tableau and PowerBi dashboards
 
+Tableau https://public.tableau.com/app/profile/mykyta8099/viz/ChicagoPoliceDatasetAnalysis
+
 #### Slide 10:
 
 1. Demonstarate additional file with all insights
