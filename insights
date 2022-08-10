@@ -1,1 +1,12 @@
+So, as for me, now I am doing the most important part of my investigations - making conclusions and insights based on my investigation
 
+I am plan to use machine learning part of Python and Tableau/Power BI dashboards.
+
+Insigts:
+
+1. The majority of arrests are not successfull( only 12% success)
+2. The majority of arrests are not domestic( only 21% are domestic)
+3. The most dangerous district: 6,8,4,12,25
+4. In the district number 4 police have the more successful arrest rather in others
+5. 1834 police of beat have a lot of crimes, 2650,2340 and 2044 also
+6. The most popular location of crime are street,apartment,residense,sidewalk,park location: police need to be more concentrated hear
