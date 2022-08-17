@@ -1,6 +1,6 @@
 So, as for me, now I am doing the most important part of my investigations - making conclusions and insights based on my investigation
 
-I am plan to use machine learning part of Python and Tableau/Power BI dashboards.
+I plan to use machine learning part of Python and Tableau/Power BI dashboards.
 
 Insigts:
 
@@ -9,7 +9,7 @@ Insigts:
 3. The most dangerous district: 6,8,4,12,25
 4. In the district number 4 police have the more successful arrest rather in others
 5. 1834 police of beat have a lot of crimes, 2650,2340 and 2044 also
-6. The most popular location of crime are street, apartment, residense, sidewalk, park location: police need to be more concentrated hear
+6. The most popular locations of crime are street, apartment, residense, sidewalk, park location: police need to be more concentrated hear
 7. The most common types of crime are theft, battery, criminal damage, assault, deceptive practice, other offence, motor venicle theft, weapons violation,
 robbery, burglary
 8. From March to July happend the majority of crimes. From August to December happened less crimes than in others
