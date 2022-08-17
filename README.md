@@ -44,6 +44,8 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
 Tableau https://public.tableau.com/app/profile/mykyta8099/viz/ChicagoPoliceDatasetAnalysis
 
+Power BI https://app.powerbi.com/groups/me/reports/402ca36c-2eba-4532-9431-34aaa43487a8/ReportSectionee70d9696679b5689dac
+
 #### Slide 10:
 
 1. Demonstarate additional file with all insights
